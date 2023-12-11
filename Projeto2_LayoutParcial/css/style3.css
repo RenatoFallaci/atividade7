@@ -1,0 +1,110 @@
+
+body{
+width: -100%;
+background-color: plum}
+
+.logo{
+    width: 150px;
+    height: 300%;
+    border-radius: 90%;
+   }
+   .perso{
+   color:rgb(30, 1, 1);
+   font-size:30px;
+    margin-left: 500px;
+    margin-top: -130px;}
+       
+   .carregue{
+    color: rgb(255, 251, 251);
+   font-size:15px;
+   margin-top: 30px;
+   margin-left: 450px;
+   }
+   .borda{
+    border: solid 1px;
+   color: aqua;
+   margin: 70px;
+   width: 80%;
+   }
+   
+   .kk{
+       height: 10px;
+       position: relative;
+       margin: 0;
+       position: absolute;
+       top: 22%;
+       left: 28%;
+      
+    }
+   .button {
+   border: #0a0a0a;
+   background-color: #00dfd8;
+    border-radius: 15PX; 
+   color: #00dfd8;
+   color: rgb(0, 0, 0);
+   padding: 15px 32px;
+   margin-left: 900px;
+   text-decoration: none;
+   display: inline-block;
+    font-size: 16px;
+   margin: 30px 2px;
+   }
+   .button:hover{
+   margin-left: 3px;
+   background-color: rgb(250, 30, 202);
+    color:rgb(255, 255, 255)}
+   
+    .lupa{
+       margin-left: 950px;
+       margin-top: -60px;
+       width:60px;}
+
+       .ajuda{
+        font-size: 20px;
+        color:rgb(0, 0, 0);
+        letter-spacing:normal;
+        margin: -10px;
+        margin-left: -70px;
+        justify-content: center;
+        margin-top: 50px;
+        display: flex;
+        flex-direction: row;
+       }
+       .quadrado{
+        margin-top: 20px;
+        margin-left: 380px;
+        background-color: #ffffff;
+        border-radius: 15px;
+        width:700px;
+        height: 300px;}
+
+    .texto{
+        margin-left: 400px;
+        margin-top: -300px;
+        color: rgb(0, 0, 0);
+    }
+    .bordaa{
+        width: 650px;
+        border: solid 1px;
+color: rgb(23, 77, 238)
+ }
+    .boraa{
+        margin-top: 150px;
+    border: solid 1px;
+    color: #00dfd8;
+    width:1300px;
+    }
+    .bmo{
+       justify-content: space-between;
+        margin: 600px;
+        margin-top: -40px;
+        display: flex;
+        flex-direction: row;
+    }
+    #triangulo-para-cima {
+      width: 0; 
+      height: 0; 
+      border-left: 50px solid transparent;
+      border-right: 50px solid transparent;
+      border-bottom: 50px solid #003ba9;
+    }
